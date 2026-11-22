@@ -1,3 +1,20 @@
+> **Fork of [areed1192/sigma_coding_youtube](https://github.com/areed1192/sigma_coding_youtube).** Code from the Sigma Coding YouTube channel (Python, SQL, VBA, JavaScript, data structures, data analysis), kept for reference. The upstream README follows unchanged.
+
+## Architecture
+
+```mermaid
+flowchart LR
+    ch["Sigma Coding channel"] --> repo["Folders by topic<br/>python, sql, vba, javascript, data analysis, data structures"]
+```
+
+## Related repos
+
+| Repo | Relationship |
+|---|---|
+| [areed1192/sigma_coding_youtube](https://github.com/areed1192/sigma_coding_youtube) | Upstream project |
+
+---
+
 <h1 align="center">
 Sigma Coding
 </h1>
